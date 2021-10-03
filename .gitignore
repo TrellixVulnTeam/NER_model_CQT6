@@ -1,4 +1,4 @@
-finetune/data
+#finetune/data
 finetune/ckpt
 finetune/output
 
