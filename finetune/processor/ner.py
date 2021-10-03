@@ -187,14 +187,72 @@ class NaverNerProcessor(object):
         return self._create_examples(self._read_file(os.path.join(self.args.data_dir,
                                                                   self.args.task,
                                                                   file_to_read)), mode)
+class YoutubeNerProcessor(object):
+    """Processor for the Youtube NER data set """
 
+    def __init__(self, args):
+        self.args = args
+
+    def get_labels(self):
+        return ['O','B_TOR', 'I_TOR','B_RES','I_RES','B_CAF',
+          'I_CAF','B_LOC','I_LOC']
+
+    @classmethod
+    def _read_file(cls, input_file):
+        """Read tsv file, and return words and label as list"""
+        with open(input_file, "r", encoding="utf-8") as f:
+            lines = []
+            for line in f:
+                lines.append(line.strip())
+            return lines
+
+    def _create_examples(self, dataset, set_type):
+        """Creates examples for the training and dev sets."""
+        examples = []
+        for (i, data) in enumerate(dataset):
+            words, labels = data.split('\t')
+            words = words.split()
+            labels = labels.split()
+            print(words)
+            guid = "%s-%s" % (set_type, i)
+            print(len(words))
+            print(len(labels))
+            assert len(words) == len(labels)
+
+            if i % 10000 == 0:
+                logger.info(data)
+            examples.append(InputExample(guid=guid, words=words, labels=labels))
+        return examples
+
+    def get_examples(self, mode):
+        """
+        Args:
+            mode: train, dev, test
+        """
+        file_to_read = None
+        if mode == 'train':
+            file_to_read = self.args.train_file
+            print(file_to_read)
+        elif mode == 'dev':
+            file_to_read = self.args.dev_file
+        elif mode == 'test':
+            file_to_read = self.args.test_file
+
+        logger.info("LOOKING AT {}".format(os.path.join(self.args.data_dir,
+                                                        self.args.task,
+                                                        file_to_read)))
+        return self._create_examples(self._read_file(os.path.join(self.args.data_dir,
+                                                                  self.args.task,
+                                                                  file_to_read)), mode)
 
 ner_processors = {
-    "naver-ner": NaverNerProcessor
+    "naver-ner": NaverNerProcessor,
+    "youtube-ner": YoutubeNerProcessor
 }
 
 ner_tasks_num_labels = {
-    "naver-ner": 11
+    "naver-ner": 9,
+    "youtube-ner": 9
 }
 
 
