@@ -1,3 +1,7 @@
+finetune/data
+finetune/ckpt
+finetune/output
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

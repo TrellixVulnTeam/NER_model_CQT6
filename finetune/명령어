@@ -1,0 +1,3 @@
+python run_ner.py --task youtube-ner --config_file koelectra-base-v3.json
+
+python run_ner.py --task naver-ner --config_file koelectra-base-v3.json
