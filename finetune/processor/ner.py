@@ -75,6 +75,7 @@ def ner_convert_examples_to_features(
         label_ids = []
 
         for word, label in zip(example.words, example.labels):
+            print(word,label)
             word_tokens = tokenizer.tokenize(word)
             if not word_tokens:
                 word_tokens = [tokenizer.unk_token]  # For handling the bad-encoded word
@@ -232,7 +233,7 @@ class YoutubeNerProcessor(object):
         file_to_read = None
         if mode == 'train':
             file_to_read = self.args.train_file
-            print(file_to_read)
+
         elif mode == 'dev':
             file_to_read = self.args.dev_file
         elif mode == 'test':
@@ -268,10 +269,11 @@ def ner_load_and_cache_examples(args, tokenizer, mode):
             mode
         )
     )
-    if os.path.exists(cached_features_file):
-        logger.info("Loading features from cached file %s", cached_features_file)
-        features = torch.load(cached_features_file)
-    else:
+    # if os.path.exists(cached_features_file):
+    #     logger.info("Loading features from cached file %s", cached_features_file)
+    #     features = torch.load(cached_features_file)
+    # else:
+    if True: #캐시 만드는거없이 계속 인풋 불러오가
         logger.info("Creating features from dataset file at %s", args.data_dir)
         if mode == "train":
             examples = processor.get_examples("train")

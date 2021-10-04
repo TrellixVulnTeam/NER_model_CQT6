@@ -440,10 +440,11 @@ def seq_cls_load_and_cache_examples(args, tokenizer, mode):
             str(args.task), list(filter(None, args.model_name_or_path.split("/"))).pop(), str(args.max_seq_len), mode
         ),
     )
-    if os.path.exists(cached_features_file):
-        logger.info("Loading features from cached file %s", cached_features_file)
-        features = torch.load(cached_features_file)
-    else:
+    # if os.path.exists(cached_features_file):
+    #     logger.info("Loading features from cached file %s", cached_features_file)
+    #     features = torch.load(cached_features_file)
+    # else:
+    if True: #캐시 만드는거없이 계속 인풋 불러오가
         logger.info("Creating features from dataset file at %s", args.data_dir)
         if mode == "train":
             examples = processor.get_examples("train")
