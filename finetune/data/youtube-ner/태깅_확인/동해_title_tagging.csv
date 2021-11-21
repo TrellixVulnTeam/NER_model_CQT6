@@ -1,0 +1,788 @@
+﻿단어,개체명 인식,id
+(ENG,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+SUB),O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+바이크,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+여행,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+/,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+동해,B_LOC,P7QLfnx6B5M
+바다로,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+떠나는,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+피크닉,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+여행,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+/,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+Motorcycle,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+Trip,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+in,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+Korea,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+/,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+4K,O,P7QLfnx6B5M
+화질,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+/,O,P7QLfnx6B5M
+ ,O,P7QLfnx6B5M
+R1250RS,O,P7QLfnx6B5M
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[sub],O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+동해,B_LOC,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+감성숙소,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+|,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+오션뷰,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+끝판왕,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+|,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+어쩌다,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+어달,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+|,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+여름,O,f0xGlln_vEE
+에,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+올리는,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+겨울,O,f0xGlln_vEE
+여행,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+브이로그,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+|,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+East,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+Sea,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+Pension,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+|,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+Travel,O,f0xGlln_vEE
+ ,O,f0xGlln_vEE
+vlog,O,f0xGlln_vEE
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[,O,c76-1SJapuA
+Kore,O,c76-1SJapuA
+a,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+Travel],O,c76-1SJapuA
+ ,O,c76-1SJapuA
+East-sea,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+Scuba,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+Travels,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+동해,B_LOC,c76-1SJapuA
+ ,O,c76-1SJapuA
+고성,B_LOC,c76-1SJapuA
+ ,O,c76-1SJapuA
+문암,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+스쿠버,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+여행,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+with,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+Tamron,O,c76-1SJapuA
+ ,O,c76-1SJapuA
+24-70,O,c76-1SJapuA
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+"Vlog,ENG)브이로그!",O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+어서와,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+어달,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+:),O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+한적하고,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+물맑은,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+동해바다,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+어달,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+탐방기,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+/,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+Welcome,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+to,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+Eodal,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+:),O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+Korea,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+East,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+Sea,O,VeSfG9p4iww
+ ,O,VeSfG9p4iww
+Traveler,O,VeSfG9p4iww
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+기차,O,HRwOYOwWUyI
+타고,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+떠나는,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+24시간,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+겨울,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+동해바다,O,HRwOYOwWUyI
+여행(,O,HRwOYOwWUyI
+추암해변,B_TOR,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+촛대바위,B_TOR,HRwOYOwWUyI
+",",O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+북평5일장,B_TOR,HRwOYOwWUyI
+",",O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+논골담길,B_TOR,HRwOYOwWUyI
+",",O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+묵호항,B_TOR,HRwOYOwWUyI
+),O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+ㅣTrain,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+travel,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+of,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+East,O,HRwOYOwWUyI
+ ,O,HRwOYOwWUyI
+sea(Donghae),O,HRwOYOwWUyI
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[,O,JC07QRngXbw
+동해,B_LOC,JC07QRngXbw
+ ,O,JC07QRngXbw
+등대오름길,B_TOR,JC07QRngXbw
+ ,O,JC07QRngXbw
+도보여행],O,JC07QRngXbw
+ ,O,JC07QRngXbw
+아기자기한,O,JC07QRngXbw
+ ,O,JC07QRngXbw
+"벽화마을,",O,JC07QRngXbw
+ ,O,JC07QRngXbw
+묵호 논골담길,B_TOR,JC07QRngXbw
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+KTX,O,4ZB60bRBx2w
+타고,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+동해,B_LOC,4ZB60bRBx2w
+여행,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+가볼까?,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+2019년 12월,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+KTX,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+동해역,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+개통,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+/,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+동해,B_LOC,4ZB60bRBx2w
+여행,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+/,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+동해,B_LOC,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+가볼만한,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+곳,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+/,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+동해,B_LOC,4ZB60bRBx2w
+여행지,O,4ZB60bRBx2w
+ ,O,4ZB60bRBx2w
+추천,O,4ZB60bRBx2w
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+여름,O,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+기차,O,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+"여행,",O,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+정동진,B_LOC,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+그리고,O,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+동해,B_LOC,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+/,O,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+힐링,O,l1jBZl4MNBA
+ ,O,l1jBZl4MNBA
+브이로그,O,l1jBZl4MNBA
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+동해,B_LOC,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+제대로,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+즐기기,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+|,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+묵호항,B_TOR,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+"등대,",O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+바람의,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+"언덕,",O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+물회,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+"먹방,",O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+투썸 빙수,O,re1Z1kcaujg
+",",O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+천국의,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+"계단,",O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+힐링,O,re1Z1kcaujg
+ ,O,re1Z1kcaujg
+여행,O,re1Z1kcaujg
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+KTX,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+타고,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+떠나는,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+동해,B_LOC,H4a0u4k77iw
+"여행,",O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+버,O,H4a0u4k77iw
+스켓,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+핫플레이스!!,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+",",O,H4a0u4k77iw
+추암촛대바위,B_TOR,H4a0u4k77iw
+.,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+망상 오토캠핑장,B_TOR,H4a0u4k77iw
+",",O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+망상한옥마을,B_TOR,H4a0u4k77iw
+",",O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+불타는,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+청춘,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+축구,O,H4a0u4k77iw
+",",O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+맥심CF,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+여름,O,H4a0u4k77iw
+광고,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+촬영,O,H4a0u4k77iw
+ ,O,H4a0u4k77iw
+"핫플레이스,",O,H4a0u4k77iw
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+동해,B_LOC,2OCNDUVnOrY
+ ,O,2OCNDUVnOrY
+망상해수욕장,B_TOR,2OCNDUVnOrY
+",",O,2OCNDUVnOrY
+ ,O,2OCNDUVnOrY
+강원도,B_LOC,2OCNDUVnOrY
+"여행,",O,2OCNDUVnOrY
+ ,O,2OCNDUVnOrY
+대한민국,O,2OCNDUVnOrY
+"여행,",O,2OCNDUVnOrY
+ ,O,2OCNDUVnOrY
+우리나라,O,2OCNDUVnOrY
+"여행,",O,2OCNDUVnOrY
+ ,O,2OCNDUVnOrY
+한국여행TV,O,2OCNDUVnOrY
+",",O,2OCNDUVnOrY
+ ,O,2OCNDUVnOrY
+Korea Tour TV,O,2OCNDUVnOrY
+",",O,2OCNDUVnOrY
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+소소한,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+팁,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+43,O,FV7toJvHwG8
+.,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+휴가철,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+자전거,O,FV7toJvHwG8
+여행시,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+피해야할,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+곳,O,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+동해,B_LOC,FV7toJvHwG8
+ ,O,FV7toJvHwG8
+라이딩,O,FV7toJvHwG8
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+동해,B_LOC,UEFKVv-yifc
+여행,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+마지막화,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+/,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+보,O,UEFKVv-yifc
+이스카우,O,UEFKVv-yifc
+트,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+못해본,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+남자의,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+캠핑,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+불멍,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+/,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+묵호,B_TOR,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+논골담길,I_TOR,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+/,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+묵호,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+대우칼국수,B_RES,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+/,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+대게,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+먹방,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+/,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+캠핑은,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+놀멍쉬멍,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+/,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+전국팔도,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+캠핑,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+하는,O,UEFKVv-yifc
+ ,O,UEFKVv-yifc
+그날까지,O,UEFKVv-yifc
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[TRAVLOG],O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+힐링,O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+동해,B_LOC,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+묵호 삼척 브이로그,O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+(DongHae,O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+Travel,O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+"Vlog,",O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+ENG,O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+SUB),O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+|,O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+묵호,B_TOR,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+논골담길,I_TOR,gc2A34ybU-U
+",",O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+추암 촛대바위,B_TOR,gc2A34ybU-U
+",",O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+대우칼국수,B_RES,gc2A34ybU-U
+",",O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+거동탕수육,B_RES,gc2A34ybU-U
+",",O,gc2A34ybU-U
+ ,O,gc2A34ybU-U
+묵호항 회센터,B_RES,gc2A34ybU-U
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+겨울,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+동해,B_LOC,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+어부,O,3UcKWK4m-XM
+가,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+직접,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+잡는,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+도루묵,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+대공개,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+|,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+Deep,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+Sea,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+Fishing,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+Battle,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+korea,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+|,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+겨울,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+여행,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+거진항,O,3UcKWK4m-XM
+ ,O,3UcKWK4m-XM
+[여행로드],O,3UcKWK4m-XM
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+동해,B_LOC,RoaeQ1Z8aAY
+ ,O,RoaeQ1Z8aAY
+여름,O,RoaeQ1Z8aAY
+여행,O,RoaeQ1Z8aAY
+ ,O,RoaeQ1Z8aAY
+논골담길,B_TOR,RoaeQ1Z8aAY
+ ,O,RoaeQ1Z8aAY
+바람의언덕,B_TOR,RoaeQ1Z8aAY
+ ,O,RoaeQ1Z8aAY
+일몰,O,RoaeQ1Z8aAY
+ ,O,RoaeQ1Z8aAY
+직전풍경,O,RoaeQ1Z8aAY
+ ,O,RoaeQ1Z8aAY
+(자막),O,RoaeQ1Z8aAY
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+동해,B_LOC,1IL48FT4tnk
+여행,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+묵호등대,B_TOR,1IL48FT4tnk
+",",O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+논골담길,B_TOR,1IL48FT4tnk
+",",O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+데이트하기,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+좋고,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+아이와,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+함께,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+가도,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+좋고,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+혼자,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+가도,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+좋고~,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+국내여행,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+추천,O,1IL48FT4tnk
+ ,O,1IL48FT4tnk
+브이로그,O,1IL48FT4tnk
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+Delicious,O,tr_QoWThXnM
+ ,O,tr_QoWThXnM
+Travel_,O,tr_QoWThXnM
+동해바다,O,tr_QoWThXnM
+여행,O,tr_QoWThXnM
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[,O,cxGl2sYOZNc
+자전거,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+캠핑],O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+초보,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+장비로,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+1박2일,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+국토종주,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+-,O,cxGl2sYOZNc
+동해,B_LOC,cxGl2sYOZNc
+편,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+|,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+커플,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+라이딩,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+자캠,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+비박,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+백패킹,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+여행,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+유튜버,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+VLOG,O,cxGl2sYOZNc
+ ,O,cxGl2sYOZNc
+#2,O,cxGl2sYOZNc
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+내륙에서온,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+미국,O,-Ap5iqmL9D4
+아내,O,-Ap5iqmL9D4
+와,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+동해,B_LOC,-Ap5iqmL9D4
+바다로,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+여행을,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+떠난다면?!,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+강원도,B_LOC,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+풀코스,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+Vlog,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+Mukbang,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+|,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+국제,O,-Ap5iqmL9D4
+커플,O,-Ap5iqmL9D4
+ ,O,-Ap5iqmL9D4
+|,O,-Ap5iqmL9D4
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+eng),O,gI14vNeoquo
+ ,O,gI14vNeoquo
+vlog,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+행복한,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+800일,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+동해,B_LOC,gI14vNeoquo
+&amp;,O,gI14vNeoquo
+강릉,B_LOC,gI14vNeoquo
+데이트,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+/,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+묵호항,B_LOC,gI14vNeoquo
+ ,O,gI14vNeoquo
+",",O,gI14vNeoquo
+ ,O,gI14vNeoquo
+논골담길,B_TOR,gI14vNeoquo
+ ,O,gI14vNeoquo
+",",O,gI14vNeoquo
+ ,O,gI14vNeoquo
+호재퀴진,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+",",O,gI14vNeoquo
+ ,O,gI14vNeoquo
+마마타타,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+800da,O,gI14vNeoquo
+ys,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+anniversary,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+date,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+[,O,gI14vNeoquo
+베이비커플,O,gI14vNeoquo
+ ,O,gI14vNeoquo
+babycouple,O,gI14vNeoquo
+],O,gI14vNeoquo
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+(세로/자막),O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+동해,B_LOC,UQV5B3vbalE
+여행,O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+시원한,O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+천곡동굴,B_TOR,UQV5B3vbalE
+에,O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+가면,O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+이건,O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+꼭봐야,O,UQV5B3vbalE
+ ,O,UQV5B3vbalE
+해!,O,UQV5B3vbalE
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[여행로그,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+Ep.1,O,kHldxrbMuh4
+],O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+연영과,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+학생회,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+망,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+MT,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+를,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+동해,B_LOC,kHldxrbMuh4
+로,O,kHldxrbMuh4
+ ,O,kHldxrbMuh4
+가다!,O,kHldxrbMuh4
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+혼자서도,O,dMDa-SZKUe8
+ ,O,dMDa-SZKUe8
+충분하다^^,O,dMDa-SZKUe8
+ ,O,dMDa-SZKUe8
+동해안길,O,dMDa-SZKUe8
+ ,O,dMDa-SZKUe8
+자전거,O,dMDa-SZKUe8
+ ,O,dMDa-SZKUe8
+여행,O,dMDa-SZKUe8
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+Eng/VLOG,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+강원도,B_LOC,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+남자셋,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+우정여행!,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+서울,B_LOC,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+돌아가는,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+날,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+|,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+동해수암해변,B_TOR,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+촛대바위,B_TOR,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+출렁다리,B_TOR,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+|,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+대게,O,RIY5GsaRke0
+맛집추천,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+|,O,RIY5GsaRke0
+ ,O,RIY5GsaRke0
+강원도,B_LOC,RIY5GsaRke0
+여행코스,O,RIY5GsaRke0
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+물놀이하다,O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+해파리,O,J2IgUxMN3FY
+에게,O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+쏘인,O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+남자친구,O,J2IgUxMN3FY
+",",O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+동해,B_LOC,J2IgUxMN3FY
+여행,O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+"VLOG,",O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+망상해변,B_TOR,J2IgUxMN3FY
+",",O,J2IgUxMN3FY
+ ,O,J2IgUxMN3FY
+백신보너스존,O,J2IgUxMN3FY
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+동해,B_LOC,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+추암해수욕장,B_TOR,34FPHUNL8E4
+",",O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+4K,O,34FPHUNL8E4
+드론,O,34FPHUNL8E4
+"영상,",O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+강원도,B_LOC,34FPHUNL8E4
+"여행,",O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+한국여행TV,O,34FPHUNL8E4
+",",O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+Kore,O,34FPHUNL8E4
+a,O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+Tour TV,O,34FPHUNL8E4
+",",O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+우리나,O,34FPHUNL8E4
+"라여행,",O,34FPHUNL8E4
+ ,O,34FPHUNL8E4
+대한민국,O,34FPHUNL8E4
+"여행,",O,34FPHUNL8E4
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+아메리칸 불리,O,WnAjfvUuE7Q
+들과,O,WnAjfvUuE7Q
+ ,O,WnAjfvUuE7Q
+함께,O,WnAjfvUuE7Q
+ ,O,WnAjfvUuE7Q
+하는,O,WnAjfvUuE7Q
+ ,O,WnAjfvUuE7Q
+동해안,O,WnAjfvUuE7Q
+ ,O,WnAjfvUuE7Q
+여행기,O,WnAjfvUuE7Q
+ ,O,WnAjfvUuE7Q
+1편,O,WnAjfvUuE7Q
+!?♂,O,WnAjfvUuE7Q
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ

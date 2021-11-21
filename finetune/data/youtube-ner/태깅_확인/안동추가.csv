@@ -1,0 +1,492 @@
+﻿단어,개체명 인식,id
+#,O,9P5xeEGfJYM
+안동,B_LOC,9P5xeEGfJYM
+여행,O,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+안동,B_LOC,9P5xeEGfJYM
+맛집,O,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+안동구시장,B_TOR,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+김대감찜닭,B_RES,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+아차가,B_CAF,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+카페볕,B_CAF,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+성전식당,B_RES,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+진성식당,B_RES,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+맘모스제과,B_CAF,9P5xeEGfJYM
+ ,O,9P5xeEGfJYM
+#,O,9P5xeEGfJYM
+나예누리,B_CAF,9P5xeEGfJYM
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+두 번째,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+영주,O,CihAq3RmM-o
+&,O,CihAq3RmM-o
+안동여행,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+브이로그입니다.,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+태풍이,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+예상보다,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+빠르게,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+지나가는,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+덕분에,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+안동하회마을,B_TOR,CihAq3RmM-o
+도,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+기분좋게,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+다녀왔어요,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+안동,O,CihAq3RmM-o
+하면,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+무조건,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+떠오르는,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+"음식,",O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+안동찜닭,O,CihAq3RmM-o
+도,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+먹고,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+sns에서,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+많이,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+돌아다니던,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+맘모스제과,B_CAF,CihAq3RmM-o
+도,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+가봤어요.,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+그,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+외에도,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+현지맛집인,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+진성식당,B_RES,CihAq3RmM-o
+에서,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+돈까스,O,CihAq3RmM-o
+도,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+먹고,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+서울,B_LOC,CihAq3RmM-o
+막창에서,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+막창,O,CihAq3RmM-o
+도,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+먹고!,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+노래방으로,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+하루,O,CihAq3RmM-o
+를,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+마무리,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+했네요.,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+지금,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+보니까,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+먹는,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+것,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+밖에,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+안한,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+듯,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+싶군요,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+아무쪼록!,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+영상,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+재미있게,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+봐주세요.,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+감사합니다.,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+BGM:,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+Happy,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+Fun Retro Background M,O,CihAq3RmM-o
+us,O,CihAq3RmM-o
+ic,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+-,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+Fun,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+Time,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+by,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+Dj Quad,O,CihAq3RmM-o
+s,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,CihAq3RmM-o
+Philip E Morris,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+-,O,CihAq3RmM-o
+ ,O,CihAq3RmM-o
+Play It Sam,O,CihAq3RmM-o
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+시집밥상,O,NcAVQhdbuuA
+Vlog,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+카메라,O,NcAVQhdbuuA
+:,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+고프로 히어로8 블랙,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+http://,O,NcAVQhdbuuA
+www.spocam.co.kr/web,O,NcAVQhdbuuA
+/,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+인스타그램,O,NcAVQhdbuuA
+:,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+http,O,NcAVQhdbuuA
+s://,O,NcAVQhdbuuA
+www.instagram.com/dlwns511js,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+Music,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+provided,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+by,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+브금,O,NcAVQhdbuuA
+대통령,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+Track,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+:,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+Calm Emotion,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+-,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+h,O,NcAVQhdbuuA
+ttp,O,NcAVQhdbuuA
+s://,O,NcAVQhdbuuA
+youtu.be/g1iOMFrL9FU,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+[일상,O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+브이로그],O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+돈까스,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+쫄면,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+치즈돈까스,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+"시집,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+"육아,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+안동,O,NcAVQhdbuuA
+"맛집,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+진성식당,B_RES,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+"한옥카페,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+"한옥,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+아메리카노,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+카페모카,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+잡채,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+"생일,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+"음식,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+VLOG,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,NcAVQhdbuuA
+"#생일,",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+#,O,NcAVQhdbuuA
+돈까스,O,NcAVQhdbuuA
+",",O,NcAVQhdbuuA
+ ,O,NcAVQhdbuuA
+한옥,O,NcAVQhdbuuA
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+#당일치기,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+#,O,"""-X0jRfSFOK0"
+안동,B_LOC,"""-X0jRfSFOK0"
+여행,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+#드디어,O,"""-X0jRfSFOK0"
+찐안동찜닭,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
++,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+무려,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+1년 전,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+이맘때쯤,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+다녀온,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+안동,B_LOC,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+여행,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+지금같은,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+가을,O,"""-X0jRfSFOK0"
+과,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+정말,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+잘,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+어울렸던,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+곳,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+찜닭,O,"""-X0jRfSFOK0"
+덕후,O,"""-X0jRfSFOK0"
+가,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+드디어,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+'찐',O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+안동찜닭,O,"""-X0jRfSFOK0"
+을,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+만난,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+곳,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+그립다,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+이때의,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+일상...,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+이때의,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+평화...,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+SPOT,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+:,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+안동하회마을,B_TOR,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+부용대,B_TOR,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+중앙찜닭,B_RES,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+도산서원,B_TOR,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+퇴계종택,B_TOR,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+월영교,B_TOR,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+진성식당,B_RES,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+카페,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+볕,B_RES,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+CAM,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+:,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+CANON EOS M100,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+BGM,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+:,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+[No,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Copyright,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Music],O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Riviera,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Smith The Mister,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+[No,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Copyright,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Music],O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Havana,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Soyb &,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Amine Maxwell,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,"""-X0jRfSFOK0"
+[No,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Copyright,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Music],O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+California,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+-,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Soyb,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+&,O,"""-X0jRfSFOK0"
+ ,O,"""-X0jRfSFOK0"
+Amine Maxwell,O,"""-X0jRfSFOK0"
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[,O,rUs-xx8jTEk
+안동,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+vlog,O,rUs-xx8jTEk
+],O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+안동,B_LOC,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+뚜벅이,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+여행,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+브이로그,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+|,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+1박 2일 동안,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+안동,B_LOC,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+핫플레이스,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+다,O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+둘러보기(,O,rUs-xx8jTEk
+진성식당,B_RES,rUs-xx8jTEk
+",",O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+맘모스제과,B_CAF,rUs-xx8jTEk
+",",O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+중앙찜닭,B_RES,rUs-xx8jTEk
+",",O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+카페 볕,B_CAF,rUs-xx8jTEk
+",",O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+하회마을,B_TOR,rUs-xx8jTEk
+",",O,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+월영교,B_TOR,rUs-xx8jTEk
+ ,O,rUs-xx8jTEk
+등),O,rUs-xx8jTEk
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ
+[,O,pqLHktYQpKg
+안동,B_LOC,pqLHktYQpKg
+여행,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+브이로그,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+#2,O,pqLHktYQpKg
+],O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+2박3일,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+안동,B_LOC,pqLHktYQpKg
+여행,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+2일차,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+|,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+안동벽화마을,B_TOR,pqLHktYQpKg
+",",O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+안동,O,pqLHktYQpKg
+"카페,",O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+카페볕,B_CAF,pqLHktYQpKg
+",",O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+진성식당,B_RES,pqLHktYQpKg
+",",O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+도산서원,B_TOR,pqLHktYQpKg
+",",O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+농암종택,O,pqLHktYQpKg
+",",O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+고택체험,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+|,O,pqLHktYQpKg
+ ,O,pqLHktYQpKg
+ANDONG VLOG,O,pqLHktYQpKg
+ㅡㅡㅡ,ㅡㅡㅡ,ㅡㅡㅡ

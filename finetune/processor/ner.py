@@ -75,7 +75,7 @@ def ner_convert_examples_to_features(
         label_ids = []
 
         for word, label in zip(example.words, example.labels):
-            print(word,label)
+
             word_tokens = tokenizer.tokenize(word)
             if not word_tokens:
                 word_tokens = [tokenizer.unk_token]  # For handling the bad-encoded word
@@ -157,10 +157,9 @@ class NaverNerProcessor(object):
             words, labels = data.split('\t')
             words = words.split()
             labels = labels.split()
-            print(words)
+
             guid = "%s-%s" % (set_type, i)
-            print(len(words))
-            print(len(labels))
+
             assert len(words) == len(labels)
 
             if i % 10000 == 0:
@@ -176,7 +175,7 @@ class NaverNerProcessor(object):
         file_to_read = None
         if mode == 'train':
             file_to_read = self.args.train_file
-            print(file_to_read)
+            # print(file_to_read)
         elif mode == 'dev':
             file_to_read = self.args.dev_file
         elif mode == 'test':
@@ -214,10 +213,9 @@ class YoutubeNerProcessor(object):
             words, labels = data.split('\t')
             words = words.split()
             labels = labels.split()
-            print(words)
+
             guid = "%s-%s" % (set_type, i)
-            print(len(words))
-            print(len(labels))
+
             assert len(words) == len(labels)
 
             if i % 10000 == 0:
